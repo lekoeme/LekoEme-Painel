@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center"><h2><strong>Boas vindas ao meu perfil</strong> 🔭</h2></p>
+
+<p align="center">Meu nome é <a href="https://www.linkedin.com/in/axuniz/"><strong>Alex Muniz</strong></a> e sou completamente apaixonado por tecnologia, atuando nessa área desde há algum tempo.</p>
+<p align="center">Atualmente ajudo a transformar a vida das pessoas desenvolvendo soluções de pequena e média escala às necessidades gerais, implementando projetos aos diversos fins, seja voluntariando-me em Ongs, ou atuando em empresas no segmento de Produtos e Serviços.</p><br><br>
+<div align="center">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lekoeme&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><br><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekoeme&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
 <!--
 **lekoeme/lekoeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
