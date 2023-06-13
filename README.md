@@ -1,6 +1,6 @@
 <p align="center"><h2><strong>Boas vindas!</strong></h2></p>
 
-<p align="center"Pode me chamar de <a href="https://www.instagram.com/a51111h"><strong>Leko</strong></a>;</p>
+<p align="center"Pode me chamar de<a href="https://www.instagram.com/a51111h"><strong>Leko</strong></a>;</p>
 <p align="center">Atualmente atuo desenvolvendo soluções para a web e de maneira independente, seja voluntariando-me à Ongs ou programando para empresas no segmento de Produtos e Serviços.</p><br><br
 
 <p align="center">Atualmente desenvolvendo soluções de pequena à média escala em empresas no segmento de produtos e serviços.</p><br><br>
